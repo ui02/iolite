@@ -150,13 +150,13 @@ layout = "fixed" # valid options: basic, fixed
   cardViewScreenWidth = false
 
 [firebase]
-   apiKey = "AIzaSyBPfMHf4VTEZzEfHMDXEp9L7oDVHfV4I3I"
-   authDomain = "iolite36-e4d68.firebaseapp.com"
-   projectId = "iolite36-e4d68"
-   storageBucket = "iolite36-e4d68.firebasestorage.app"
-   messagingSenderId = "564053164844"
-   appId = "1:564053164844:web:30ad61e709e616015c2289"
-   measurementId = "G-YWDMF8V63M"
+  apiKey = "AIzaSyAHLussEOW0sB3SNqKCFxG1tncpGlTYDzA"
+  authDomain = "iolite36.firebaseapp.com"
+  projectId = "iolite36"
+  storageBucket = "iolite36.firebasestorage.app"
+  messagingSenderId = "691591020009"
+  appId = "1:691591020009:web:b796994768d65faf829f78"
+  measurementId = "G-CK6HRSW2ZN"
 
 [fathomAnalytics]
   # site = "ABC12345"
