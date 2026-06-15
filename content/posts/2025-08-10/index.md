@@ -2,14 +2,16 @@
 title: "MEAN:on sight"
 
 summary: "ちぇみのの写真展にいってきた！
+
 お昼頃まで風が強く雨も降ったり止んだりだったので、DEAN&DELUCAでゆっくりしてから向かった。
-そこで食べたクランベリーパウンドが美味すぎて。過去イチのキャロットケーキだわ〜と思ったら、松之助のだった‥。帰ってレシート見て気づいた。また食べに行こう。"
+
+そこで食べたクランベリーパウンドが美味すぎて。帰ってレシート見てから松之助のだと知った。また食べに行こう。"
 
 showSummary: true
 
 date: 2025-08-10
 
-categories: ["dailylife", "post"]
+categories: [""]
 
 tags: ["dailylife", "SHINee"]
 
@@ -43,7 +45,7 @@ draft: false
 
 {{< gallery >}}
   <img src="IMG_20250810_141103.jpg" class="grid-w50" />
-  <img src="IMG_20250810_142717.jpg" class="grid-w50" />
+ <img src="IMG_20250810_142717.jpg" class="grid-w50" />
   <img src="IMG_20250810_140530.jpg" class="grid-w50" />
   <img src="IMG_20250810_142608.jpg" class="grid-w50" />
 {{< /gallery >}}
