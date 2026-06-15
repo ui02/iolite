@@ -51,8 +51,8 @@ draft: false
 なお、レストランでゆっくりしたあとは開場時間まで車でお昼寝してた。（これができるから会場近くの駐車場に停められてめちゃくちゃよかった…）<br>
 <br>
 {{< gallery >}}
-  <img src="20260616-IMG_20260605_140530.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
-  <img src="20260616-IMG_20260605_140554.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="20260616-IMG_20260605_140530.jpg" class="grid-w50" />
+  <img src="20260616-IMG_20260605_140554.jpg" class="grid-w50" />
 {{< /gallery >}}
 <br>
 <h1>トイレ事情</h1>
