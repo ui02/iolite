@@ -12,7 +12,7 @@ showSummary: true
 
 date: 2025-05-01
 
-categories: ["dailylife", "post"]
+categories: [""]
 
 tags: ["dailylife", "SHINee"]
 
