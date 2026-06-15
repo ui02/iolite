@@ -18,16 +18,12 @@ tags: ["dailylife", "SHINee"]
 
 draft: false
 ---
-
-
 6/5(金)、SHINeeのライブに行ってきた！<br>
 4人そろっての日本公演はなんと8年ぶり・・・<br>
 <br>
 初めてのベルーナドーム、めちゃくちゃ心配していったんだけど<br>
 ラッキーなことに、熱くも寒くもなく。トイレにも困らず。<br>
 フツーに快適な１日を過ごした。<br>
-<br>
-<img src="20260615-IMG_20260605_135327.jpg" />
 <br>
 <h1>交通手段は車で</h1>
 帰りの電車を心配して途中で帰るのは嫌だったので、<br>
@@ -43,11 +39,7 @@ draft: false
 確か10時前には駐車場停めて、<br>
 11時過ぎにはグッズ列並んで、12時にはグッズ販売開始して。<br>
 （私は並んでないけど一般販売ブースの流れがすごい遅かった）<br>
-
-{{< gallery >}}
-  <img src="20260615-Screenshot_2026-06-05-11-46-22-513_com.smentertainment.shineestore.jpg" />
-{{< /gallery >}}
-
+<br>
 会場限定ガチャだけ回したんだけど、なかなかの神引き<br>
 ボンボンシールが想像以上に可愛かった！！<br>
 （このあとチェミノの缶バッジはボクシリのチャームに交換していただき、無事コンプした）<br>
@@ -55,13 +47,12 @@ draft: false
 レストランでご飯食べて<br>
 安くはないけどちゃんと美味しいし、満足できる量だった！<br>
 しかもずっとSHINeeのMV流れてた！<br>
-
 {{< gallery >}}
-  <img src="20260615-IMG_20260605_140530.jpg" class="grid-w100 md:grid-w50 xl:grid-w33" />
-  <img src="20260615-IMG_20260605_140554.jpg" class="grid-w100 md:grid-w50 xl:grid-w33" />
-  <img src="20260615-IMG_20260605_122246.jpg" class="grid-w100 md:grid-w50 xl:grid-w33" />
-  <img src="20260615-IMG_20260605_122327.jpg" class="grid-w100 md:grid-w50 xl:grid-w33" />
-  <img src="20260615-IMG_20260605_122344.jpg" class="grid-w100 md:grid-w50 xl:grid-w33" />
+  <img src="20260615-IMG_20260605_135327.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="20260615-Screenshot_2026-06-05-11-46-22-513_com.smentertainment.shineestore.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="20260615-IMG_20260605_140530.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="20260615-IMG_20260605_140554.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="20260615-IMG_20260605_122246.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="20260615-IMG_20260605_122327.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="20260615-IMG_20260605_122344.jpg" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}}
-<br>
-
