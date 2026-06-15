@@ -12,7 +12,7 @@ categories: ["dailylife", "post"]
 
 tags: ["dailylife"]
 
-draft: false
+draft: true
 ---
 
 8月が終わる！というか終わった！

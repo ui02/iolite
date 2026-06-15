@@ -13,7 +13,7 @@ categories: ["dailylife", "post"]
 
 tags: ["dailylife"]
 
-draft: false
+draft: true
 ---
 
 急に朝方に目が覚めたりするようになった。今朝は２時（たぶん朝ではない）。と思えば、仕事開始の間際まで寝てしまうような日もある。
