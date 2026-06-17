@@ -3,7 +3,7 @@ import os
 import re
 from collections import defaultdict
 
-CSV_FILE = "data/murmur/catalog.csv"
+CSV_FILE = "scripts/murmur/catalog.csv"
 OUTPUT_DIR = "content/murmur/generated"
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
