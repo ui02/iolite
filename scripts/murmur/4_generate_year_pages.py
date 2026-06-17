@@ -67,8 +67,10 @@ draft: false
 
             for img in image_files:
 
+                img_name = os.path.basename(img)
+
                 md += (
-                    f'<img src="murmur/{img}" '
+                    f'<img src="/iolite/murmur/{img_name}" '
                     f'class="grid-w50">\n'
                 )
 
