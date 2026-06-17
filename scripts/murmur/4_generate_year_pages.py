@@ -68,7 +68,7 @@ draft: false
             for img in image_files:
 
                 md += (
-                    f'<img src="/murmur/{img}" '
+                    f'<img src="murmur/{img}" '
                     f'class="grid-w50">\n'
                 )
 
