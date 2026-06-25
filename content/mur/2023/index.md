@@ -651,34 +651,6 @@ KALDIに胡椒餅あるって聞いたんで！！！
 
 {{< /timelineItem >}}
 
-{{< timelineItem icon="twitter" subheader="2023/06/28" >}}
-{{< gallery >}}
-<img src="/iolite/murmur/751825831650869248_0.jpg" class="grid-w50">
-<img src="/iolite/murmur/751825831650869248_1.jpg" class="grid-w50">
-<img src="/iolite/murmur/751825831650869248_2.jpg" class="grid-w50">
-<img src="/iolite/murmur/751825831650869248_3.jpg" class="grid-w50">
-<img src="/iolite/murmur/751825831650869248_4.jpg" class="grid-w50">
-<img src="/iolite/murmur/751825831650869248_5.jpg" class="grid-w50">
-<img src="/iolite/murmur/751825831650869248_6.jpg" class="grid-w50">
-<img src="/iolite/murmur/751825831650869248_7.jpg" class="grid-w50">
-<img src="/iolite/murmur/751825831650869248_8.jpg" class="grid-w50">
-<img src="/iolite/murmur/751825831650869248_9.jpg" class="grid-w50">
-<img src="/iolite/murmur/751825831650869248_10.jpg" class="grid-w50">
-<img src="/iolite/murmur/751825831650869248_11.jpg" class="grid-w50">
-<img src="/iolite/murmur/751825831650869248_12.jpg" class="grid-w50">
-<img src="/iolite/murmur/751825831650869248_13.jpg" class="grid-w50">
-{{< /gallery >}}
-
-モモンガと日帰りさっぽろ旅行💙
-初トリトンと 会いたかったよ ぼうずぎんぽちゃん。
-ミルクと豆が選べるバリスタートコーヒー。あっさりでもコクがあって、めちゃくちゃ飲みやすいラテだった！！そして曇のち雨なんて嘘でした！
-何もかもが美味しかった…雪印の空港ソフトと六花亭のアイスサンド、毎週食べたい…
-カップ麺と壮絶な遅延ドラマで〆🥹 もともと一人で行こうと思ってたんだけど、友達も来てくれたおかげですごく充実して楽しかったー！美味しいもの食べるためだけのサクッと日帰り旅行、とても良かったのでまた行きたい。
-
-{{< badge >}}trip{{< /badge >}} {{< badge >}}hokkaido{{< /badge >}} {{< badge >}}what i ate today{{< /badge >}} 
-
-{{< /timelineItem >}}
-
 {{< timelineItem icon="twitter" subheader="2023/07/02" >}}
 {{< gallery >}}
 <img src="/iolite/murmur/752364991161794560_0.jpg" class="grid-w50">

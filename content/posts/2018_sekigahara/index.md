@@ -41,6 +41,24 @@ draft: false
 
 {{< /timelineItem >}}
 
+{{< timelineItem icon="twitter" subheader="2024/06/04" >}}
+{{< gallery >}}
+<img src="752362674865717248_0.jpg" class="grid-w100 md:grid-w50 xl:grid-w33">
+<img src="752362674865717248_1.jpg" class="grid-w100 md:grid-w50 xl:grid-w33">
+<img src="752362674865717248_2.jpg" class="grid-w100 md:grid-w50 xl:grid-w33">
+<img src="752362674865717248_3.jpg" class="grid-w100 md:grid-w50 xl:grid-w33">
+<img src="752362674865717248_4.jpg" class="grid-w100 md:grid-w50 xl:grid-w33">
+<img src="752362674865717248_5.jpg" class="grid-w100 md:grid-w50 xl:grid-w33">
+{{< /gallery >}}
+
+出陣の朝
+井伊の赤備え❤️
+着替えたのち、会場までバス移動。こんな感じで結構カオスだった🤣これ外から撮った写真ないだろうか…。しかし素敵な写真撮ってもらって嬉しい😊
+島左近陣地！
+戦を終えて。あっという間の２日間で、ゆみあさんとおセンチになってた…。 そして大分に戻ったあと、家に帰るバス待ちで座ってたら、見知らぬおばちゃんに「県外の人？」と話しかけられ、よくよく話してみたら彦根出身の人だったという…！すごい✨
+
+{{< /timelineItem >}}
+
 {{< timelineItem icon="twitter" subheader="2018/12/10" >}}
 {{< gallery >}}
 <img src="751725983856574464_0.jpg" class="grid-w100 md:grid-w50 xl:grid-w33">
