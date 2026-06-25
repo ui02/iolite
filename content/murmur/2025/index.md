@@ -5,9 +5,9 @@ date: 2025-01-01
 
 showLikes: false
 
-showSummary: false
-
 draft: false
+
+featureimage: "/iolite/murmur/779994076680470528_4.jpg"
 ---
 
 {{< timeline >}}
