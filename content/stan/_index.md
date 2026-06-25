@@ -1,5 +1,5 @@
 ---
-title: "Murmur"
+title: "Stan"
 
 cascade:
   showDate: false
@@ -12,4 +12,4 @@ cascade:
   showDateUpdated: true
 ---
 
-日々のちょっとしたつぶやき
+推し活という名のライフワーク

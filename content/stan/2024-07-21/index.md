@@ -12,17 +12,17 @@ draft: false
 
 {{< timelineItem icon="twitter" subheader="2024/02/24" >}}
 {{< gallery >}}
-<img src="/iolite/murmur/752179046835765248_0.jpg" class="grid-w100 md:grid-w50 xl:grid-w33">
-<img src="/iolite/murmur/752179046835765248_1.jpg" class="grid-w100 md:grid-w50 xl:grid-w33">
-<img src="/iolite/murmur/752179046835765248_2.jpg" class="grid-w100 md:grid-w50 xl:grid-w33">
-<img src="/iolite/murmur/752179046835765248_3.jpg" class="grid-w100 md:grid-w50 xl:grid-w33">
+<img src="752179046835765248_0.jpg" class="grid-w100 md:grid-w50 xl:grid-w33">
+<img src="752179046835765248_1.jpg" class="grid-w100 md:grid-w50 xl:grid-w33">
+<img src="752179046835765248_2.jpg" class="grid-w100 md:grid-w50 xl:grid-w33">
+<img src="752179046835765248_3.jpg" class="grid-w100 md:grid-w50 xl:grid-w33">
 {{< /gallery >}}
 
 御徒町でユメカワ豚活し、散歩がてら湯島天神参拝し、ぷらぷら春日から東新宿で激混みの新大久保で心折れつつやーっとｱﾝｼのﾁｰｸﾌﾞﾗｼとｳﾇはんぐごかどぅゲトしてカペでおやつ食べて今からライブー！！！ｷﾝﾁｮｼﾃｷﾀ‥
 
 {{< gallery >}}
-<img src="/iolite/murmur/752357668539269120_0.jpg" class="grid-w100 md:grid-w50 xl:grid-w33">
-<img src="/iolite/murmur/752357668539269120_1.jpg" class="grid-w100 md:grid-w50 xl:grid-w33">
+<img src="752357668539269120_0.jpg" class="grid-w100 md:grid-w50 xl:grid-w33">
+<img src="752357668539269120_1.jpg" class="grid-w100 md:grid-w50 xl:grid-w33">
 {{< /gallery >}}
 
 心臓痛い‥今日TMYNやる感じですか‥？みんなしんでしまう‥‥ てかふかふかシートドリンクホルダー付きで見やすいときたここはなかなかの良席‥
@@ -31,9 +31,9 @@ draft: false
 
 {{< timelineItem icon="twitter" subheader="2024/07/21" >}}
 {{< gallery >}}
-<img src="/iolite/murmur/756596396655869952_0.jpg" class="grid-w100 md:grid-w50 xl:grid-w33">
-<img src="/iolite/murmur/756596396655869952_1.jpg" class="grid-w100 md:grid-w50 xl:grid-w33">
-<img src="/iolite/murmur/756596396655869952_2.jpg" class="grid-w100 md:grid-w50 xl:grid-w33">
+<img src="756596396655869952_0.jpg" class="grid-w100 md:grid-w50 xl:grid-w33">
+<img src="756596396655869952_1.jpg" class="grid-w100 md:grid-w50 xl:grid-w33">
+<img src="756596396655869952_2.jpg" class="grid-w100 md:grid-w50 xl:grid-w33">
 {{< /gallery >}}
 
 ついた！なんかあつい！！！！
@@ -64,18 +64,17 @@ draft: false
 
 {{< timelineItem icon="twitter" subheader="2024/07/21" >}}
 初回ドルビーでみたらこの先もドルビー以外で見る気になれないなと思った…とてもよかった…何度も鳥肌立った……
-
 {{< /timelineItem >}}
 
 {{< timelineItem icon="twitter" subheader="2024/09/28" >}}
 {{< gallery >}}
-<img src="/iolite/murmur/762860109698301952_0.jpg" class="grid-w100 md:grid-w50 xl:grid-w33">
+<img src="762860109698301952_0.jpg" class="grid-w100 md:grid-w50 xl:grid-w33">
 {{< /gallery >}}
 
 ついた〜〜ペンラ売り切れとか〜〜〜😔
 
 {{< gallery >}}
-<img src="/iolite/murmur/762860235444600832_0.jpg" class="grid-w100 md:grid-w50 xl:grid-w33">
+<img src="762860235444600832_0.jpg" class="grid-w100 md:grid-w50 xl:grid-w33">
 {{< /gallery >}}
 
 センステに面したブロックでなかなか近かった〜〜〜たのしかった〜〜〜😭❤️テミンこんな近いの久しぶりな感じする…
