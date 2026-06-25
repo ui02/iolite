@@ -10,6 +10,8 @@ tags: ["stan", "SHINee"]
 draft: false
 ---
 
+{{< timeline >}}
+
 {{< timelineItem icon="twitter" subheader="2025/04/05" >}}
 {{< gallery >}}
 <img src="779994076680470528_0.jpg" class="grid-w100 md:grid-w50 xl:grid-w33">
@@ -21,3 +23,5 @@ draft: false
 {{< /gallery >}}
 Ephemeral Gaze ＠有明アリーナ
 {{< /timelineItem >}}
+
+{{< /timeline >}}

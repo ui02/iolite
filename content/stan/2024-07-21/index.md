@@ -10,6 +10,8 @@ tags: ["stan", "SHINee"]
 draft: false
 ---
 
+{{< timeline >}}
+
 {{< timelineItem icon="twitter" subheader="2024/02/24" >}}
 {{< gallery >}}
 <img src="752179046835765248_0.jpg" class="grid-w100 md:grid-w50 xl:grid-w33">
@@ -82,4 +84,5 @@ draft: false
 
 {{< /timelineItem >}}
 
+{{< /timeline >}}
 

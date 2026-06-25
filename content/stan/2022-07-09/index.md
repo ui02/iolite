@@ -10,6 +10,8 @@ tags: ["stan", "SHINee"]
 draft: false
 ---
 
+{{< timeline >}}
+
 {{< timelineItem icon="twitter" subheader="2022/07/09" >}}
 {{< gallery >}}
 <img src="/iolite/murmur/756256706614411264_0.jpg" class="grid-w50">
@@ -29,3 +31,5 @@ draft: false
 {{< badge >}}lifework{{< /badge >}} {{< badge >}}shinee{{< /badge >}} 
 
 {{< /timelineItem >}}
+
+{{< /timeline >}}

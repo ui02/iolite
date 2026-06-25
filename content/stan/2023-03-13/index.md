@@ -10,6 +10,8 @@ tags: ["stan", "SHINee"]
 draft: false
 ---
 
+{{< timeline >}}
+
 {{< timelineItem icon="twitter" subheader="2023/03/13" >}}
 {{< gallery >}}
 <img src="/iolite/murmur/751824581903384576_0.jpg" class="grid-w100 md:grid-w50 xl:grid-w33">
@@ -88,3 +90,5 @@ draft: false
 かわいいです！！
 
 {{< /timelineItem >}}
+
+{{< /timeline >}}
