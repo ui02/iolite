@@ -5,8 +5,6 @@ summary: "まとめ"
 
 date: 2023-03-13
 
-categories: ["stan"]
-
 tags: ["SHINee"]
 
 draft: false

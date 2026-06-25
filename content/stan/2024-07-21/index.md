@@ -5,8 +5,6 @@ summary: "まとめ"
 
 date: 2024-07-21
 
-categories: ["stan"]
-
 tags: ["SHINee"]
 
 draft: false

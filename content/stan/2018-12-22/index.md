@@ -5,8 +5,6 @@ summary: "まとめ"
 
 date: 2018-12-22
 
-categories: ["stan"]
-
 tags: ["SHINee"]
 
 draft: false

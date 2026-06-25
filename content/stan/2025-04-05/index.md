@@ -5,8 +5,6 @@ summary: "TAEMIN Ephemeral Gaze ＠有明アリーナ"
 
 date: 2025-04-05
 
-categories: ["stan"]
-
 tags: ["SHINee"]
 
 draft: false

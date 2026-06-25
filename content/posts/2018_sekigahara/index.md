@@ -7,9 +7,8 @@ draft: false
 
 ---
 
-{{< timeline >}}
-
 ## 関ヶ原合戦祭り&絵巻リハ
+{{< timeline >}}
 
 {{< timelineItem icon="twitter" subheader="2018/10/20" >}}
 {{< gallery >}}
@@ -27,8 +26,6 @@ draft: false
 
 #関ケ原合戦絵巻2018
 リハから部活みたいで楽しかった🥺
-
-{{< badge >}}what i ate today{{< /badge >}} {{< badge >}}sekigahara{{< /badge >}} {{< badge >}}関ヶ原{{< /badge >}} 
 
 {{< /timelineItem >}}
 
@@ -73,8 +70,12 @@ draft: false
 
 {{< /timelineItem >}}
 
+{{< /timeline >}}
+
 
 ## 関ケ原ファイナル＆忘年会
+
+{{< timeline >}}
 
 {{< timelineItem icon="twitter" subheader="2018/12/11" >}}
 {{< gallery >}}
@@ -95,8 +96,6 @@ draft: false
 関ヶ原合戦絵巻2018忘年会
 関ヶ原の皆様と再会できて嬉しかった😊絵巻初参加ゆえ、どなたか分からなかったり、ちゃんとご挨拶できなかった方も多かったですが、来年もまた関ヶ原でお会いできますように！その時は仲良くしてやってください〜🙇 この加工…表情はそのままで素顔隠せるの、気に入った🤣
 それから、その後。まったりお話できたのもよかった〜☺️たまに顔認証されない人がいるw
-
-{{< badge >}}関ヶ原{{< /badge >}} {{< badge >}}sekigahara{{< /badge >}} {{< badge >}}trip{{< /badge >}} 
 
 {{< /timelineItem >}}
 
