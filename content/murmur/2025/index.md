@@ -7,7 +7,6 @@ showLikes: false
 
 draft: false
 
-featuredImage: "/iolite/murmur/779994076680470528_4.jpg"
 ---
 
 {{< timeline >}}
