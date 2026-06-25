@@ -65,20 +65,6 @@ draft: false
 
 {{< timelineItem icon="twitter" subheader="2025/04/05" >}}
 {{< gallery >}}
-<img src="/iolite/murmur/779994076680470528_0.jpg" class="grid-w50">
-<img src="/iolite/murmur/779994076680470528_1.jpg" class="grid-w50">
-<img src="/iolite/murmur/779994076680470528_2.jpg" class="grid-w50">
-<img src="/iolite/murmur/779994076680470528_3.jpg" class="grid-w50">
-<img src="/iolite/murmur/779994076680470528_4.jpg" class="grid-w50">
-<img src="/iolite/murmur/779994076680470528_5.jpg" class="grid-w50">
-{{< /gallery >}}
-
-{{< badge >}}shinee{{< /badge >}} {{< badge >}}lifework{{< /badge >}} 
-
-{{< /timelineItem >}}
-
-{{< timelineItem icon="twitter" subheader="2025/04/05" >}}
-{{< gallery >}}
 <img src="/iolite/murmur/779995631650537472_0.jpg" class="grid-w50">
 <img src="/iolite/murmur/779995631650537472_1.jpg" class="grid-w50">
 <img src="/iolite/murmur/779995631650537472_2.jpg" class="grid-w50">

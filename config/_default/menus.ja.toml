@@ -17,7 +17,12 @@
 
 [[main]]
   name = "MUR"
-  pageRef = "murmur"
+  pageRef = "mur"
+  weight = 10
+
+[[main]]
+  name = "STAN"
+  pageRef = "stan"
   weight = 10
 
 #[[main]]

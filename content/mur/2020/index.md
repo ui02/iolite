@@ -125,25 +125,6 @@ draft: false
 
 {{< /timelineItem >}}
 
-{{< timelineItem icon="twitter" subheader="2020/11/03" >}}
-{{< gallery >}}
-<img src="/iolite/murmur/751732423177420800_0.jpg" class="grid-w50">
-<img src="/iolite/murmur/751732423177420800_1.jpg" class="grid-w50">
-<img src="/iolite/murmur/751732423177420800_2.jpg" class="grid-w50">
-<img src="/iolite/murmur/751732423177420800_3.jpg" class="grid-w50">
-<img src="/iolite/murmur/751732423177420800_4.jpg" class="grid-w50">
-<img src="/iolite/murmur/751732423177420800_5.jpg" class="grid-w50">
-<img src="/iolite/murmur/751732423177420800_6.jpg" class="grid-w50">
-{{< /gallery >}}
-
-黒田充してきた😭💕
-刀剣は上から日光一文字、圧切長谷部、安宅切。それから、一の谷形兜うぉお〜〜〜🥳閉館一時間前に行ったので、めちゃくちゃ空いてた👏🏻
-あと妙に可愛かった牛さん。 見たことないくらい大きい兜、大きすぎて笑った😂頭に対してこの長さの脇立…腕の2倍くらいある？これ以上に大きい兜ってあるのかな🤔
-
-{{< badge >}}放浪中{{< /badge >}} 
-
-{{< /timelineItem >}}
-
 {{< timelineItem icon="twitter" subheader="2020/11/05" >}}
 {{< gallery >}}
 <img src="/iolite/murmur/751732470283714560_0.jpg" class="grid-w50">
