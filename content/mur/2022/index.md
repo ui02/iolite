@@ -5,9 +5,8 @@ date: 2022-01-01
 
 showLikes: false
 
-showSummary: false
-
 draft: false
+
 ---
 
 {{< timeline >}}
