@@ -49,7 +49,7 @@ Etiam sollicitudin, ante ac fermentum varius, lorem ante congue mi, auctor dictu
 Proin tempor lorem quam, ac maximus lectus sodales et. Sed laoreet orci vel metus luctus lobortis. Nam ex velit, vehicula id tristique sed, blandit eu nisi. Quisque semper libero nec massa malesuada congue. In faucibus lorem at diam fringilla, vel viverra magna lobortis. Ut commodo est urna, ut aliquet enim sagittis ut. Nulla posuere arcu sed lobortis accumsan. Phasellus fringilla dolor id est lobortis feugiat. Quisque enim elit, faucibus a mauris non, mattis aliquet orci. Nunc sagittis viverra erat, id condimentum lacus suscipit quis.
 
 {{< gallery >}}
-  <img src="IMG_20250429_123652.jpg" class="grid-w50" />
+  <img src="IMG_20250429_123652.jpg" class="grid-w100 md:grid-w50 xl:grid-w33" />
   <img src="IMG_20250429_213841.jpg" class="grid-w50" />
   <img src="IMG_20250426_135912.jpg" class="grid-w33" />
   <img src="IMG_20250504_123838.jpg" class="grid-w33" />

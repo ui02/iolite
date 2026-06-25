@@ -3,13 +3,8 @@ title: "2018"
 
 date: 2018-01-01
 
-showLikes: false
-
-showSummary: false
-
 draft: false
 
-featureimage: /iolite/murmur/751725152700678144_0.jpg
 ---
 
 {{< timeline >}}

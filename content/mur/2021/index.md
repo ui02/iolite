@@ -3,10 +3,6 @@ title: "2021"
 
 date: 2021-01-01
 
-showLikes: false
-
-showSummary: false
-
 draft: false
 ---
 

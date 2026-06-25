@@ -3,8 +3,6 @@ title: "2025"
 
 date: 2025-01-01
 
-showLikes: false
-
 draft: false
 
 ---

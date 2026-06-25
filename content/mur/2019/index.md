@@ -3,10 +3,6 @@ title: "2019"
 
 date: 2019-01-01
 
-showLikes: false
-
-showSummary: false
-
 draft: false
 ---
 
