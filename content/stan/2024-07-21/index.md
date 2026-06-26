@@ -7,7 +7,7 @@ date: 2024-07-21
 
 tags: ["SHINee"]
 
-draft: false
+draft: true
 ---
 
 {{< timeline >}}
