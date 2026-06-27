@@ -3,7 +3,7 @@ title: "2018 関ケ原"
 
 date: 2018-10-01
 
-draft: false
+draft: true
 
 ---
 
