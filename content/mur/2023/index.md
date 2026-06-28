@@ -22,12 +22,16 @@ draft: false
 {{< /gallery >}}
 そういえば：小さい頃にタッキーにファンレター送ったことがあってプリクラみたいなシールと一緒に返事が返ってきたんだけど、あのきれいな字は誰の字だったのか<BR>
 そして：発掘されるひであきくん、、可愛すぎィ
-{{< badge >}}text{{< /badge >}} 
 {{< /timelineItem >}}
 
 {{< timelineItem icon="twitter" subheader="2023/01/04" >}}
+{{< video
+    src="/iolite/murmur/751823851535630336_0.mp4"
+    poster="751823851535630336_1.jpg"
+    caption=""
+    muted=true
+>}}
 今すぐこれになりたい
-{{< badge >}}cat{{< /badge >}} {{< badge >}}video{{< /badge >}} 
 {{< /timelineItem >}}
 
 {{< timelineItem icon="twitter" subheader="2023/01/05" >}}
@@ -387,7 +391,7 @@ espoir買うはずがTIRTIRシルバー小さいのあってそっち買
 
 {{< timelineItem icon="twitter" subheader="2023/05/31" >}}
 {{< gallery >}}
-<img src="/iolite/murmur/751825617252728832_0.jpg" class="grid-w50">
+<img src="/iolite/murmur/751825617252728832_0.jpg" class="grid-w100">
 {{< /gallery >}}
 …ｷﾀｯ
 {{< /timelineItem >}}
@@ -563,6 +567,12 @@ KALDIに胡椒餅あるって聞いたんで！！！
 {{< /timelineItem >}}
 
 {{< timelineItem icon="twitter" subheader="2023/08/08" >}}
+{{< video
+    src="/iolite/murmur/754442449615798272_0.mp4"
+    poster=""
+    caption=""
+    muted=true
+>}}
 すごい嫌な思いしたけどその原因となる見知らぬ男に往復ビンタかます想像しまくってなんとか穏便にすませた😢
 {{< /timelineItem >}}
 
@@ -723,6 +733,12 @@ My bird is freed
 {{< timeline >}}
 
 {{< timelineItem icon="twitter" subheader="2023/11/12" >}}
+{{< video
+    src="/iolite/murmur/752180500119027712_0.mp4"
+    poster=""
+    caption=""
+    muted=true
+>}}
 今日はうちのネコが舌しまい忘れてるの初めて見た記念日です
 {{< /timelineItem >}}
 

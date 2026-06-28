@@ -46,11 +46,9 @@ draft: false
 {{< timelineItem icon="twitter" subheader="2024/01/14" >}}
 {{< gallery >}}
 <img src="/iolite/murmur/752179723660099584_0.jpg" class="grid-w100">
-{{< /gallery >}}
-今更近所のドラストにいるとはまさかすぎるんだよーーｯｯ でもご覧の通り並べると可愛さ増すんだよね…悩むね……
-{{< gallery >}}
 <img src="/iolite/murmur/752179723660099584_1.jpg" class="grid-w100">
 {{< /gallery >}}
+今更近所のドラストにいるとはまさかすぎるんだよーーｯｯ でもご覧の通り並べると可愛さ増すんだよね…悩むね……
 {{< /timelineItem >}}
 
 {{< timelineItem icon="twitter" subheader="2024/01/19" >}}
@@ -204,8 +202,8 @@ Springroove、昔一度だけ行ったけど、出演者やばい豪華でめっ
 
 {{< timelineItem icon="twitter" header="文具" subheader="2024/09/28" >}}
 {{< gallery >}}
-<img src="/iolite/murmur/762858453570093056_0.jpg" class="grid-w50">
-<img src="/iolite/murmur/762858453570093056_1.jpg" class="grid-w50">
+<img src="/iolite/murmur/762858453570093056_0.jpg" class="grid-w100">
+<img src="/iolite/murmur/762858453570093056_1.jpg" class="grid-w100">
 {{< /gallery >}}
 ずっと地元でないのかな〜〜と思ってたトマトマーケットのポップアップ発見した。。。一番欲しかった絵はなかったけど全部可愛くて🥲❤️あとウルフくんのホログラムステッカー。シュールすぎてめちゃくちゃツボった。<BR>
 本気で紙の手帳に戻してから、また文具にハマってて。100均でも可愛いのたくさんあるから近づいたら簡単に散財してしまう

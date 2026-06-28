@@ -39,7 +39,8 @@ draft: false
 {{< gallery >}}
 <img src="/iolite/murmur/779457427456294912_0.jpg" class="grid-w50">
 <img src="/iolite/murmur/779457427456294912_1.jpg" class="grid-w50">
-
+{{< /gallery >}}
+{{< gallery >}}
 <img src="/iolite/murmur/779457427456294912_3.jpg" class="grid-w33">
 <img src="/iolite/murmur/779457427456294912_5.jpg" class="grid-w33">
 <img src="/iolite/murmur/779457427456294912_9.jpg" class="grid-w33">
