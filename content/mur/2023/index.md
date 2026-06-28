@@ -563,9 +563,6 @@ KALDIに胡椒餅あるって聞いたんで！！！
 {{< /timelineItem >}}
 
 {{< timelineItem icon="twitter" subheader="2023/08/08" >}}
-<video controls preload="metadata" width="100%">
-  <source src="/iolite/murmur/754442449615798272_0.mp4" type="video/mp4">
-</video>
 すごい嫌な思いしたけどその原因となる見知らぬ男に往復ビンタかます想像しまくってなんとか穏便にすませた😢
 {{< /timelineItem >}}
 
