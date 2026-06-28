@@ -50,6 +50,8 @@ draft: false
 {{< timelineItem icon="twitter" subheader="2025/04/05" >}}
 {{< gallery >}}
 <img src="/iolite/murmur/779995631650537472_1.jpg" class="grid-w100">
+{{< /gallery >}}
+{{< gallery >}}
 <img src="/iolite/murmur/779995631650537472_0.jpg" class="grid-w33">
 <img src="/iolite/murmur/779995631650537472_4.jpg" class="grid-w33">
 <img src="/iolite/murmur/779995631650537472_6.jpg" class="grid-w33">

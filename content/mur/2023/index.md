@@ -149,7 +149,7 @@ draft: false
 
 {{< timelineItem icon="twitter" subheader="2023/02/24" >}}
 {{< gallery >}}
-<img src="/iolite/murmur/751824466691178496_0.jpg" class="grid-w50">
+<img src="/iolite/murmur/751824466691178496_0.jpg" class="grid-w100">
 {{< /gallery >}}
 会社にイケナイもの持ってきちゃった🤗
 {{< /timelineItem >}}
@@ -182,7 +182,7 @@ draft: false
 
 {{< timelineItem icon="twitter" subheader="2023/03/17" >}}
 {{< gallery >}}
-<img src="/iolite/murmur/751824701820731392_0.jpg" class="grid-w50">
+<img src="/iolite/murmur/751824701820731392_0.jpg" class="grid-w100">
 {{< /gallery >}}
 allureのインタビュー泣く😭😭
 {{< /timelineItem >}}
@@ -204,7 +204,7 @@ allureのインタビュー泣く😭😭
 
 {{< timelineItem icon="twitter" subheader="2023/03/27" >}}
 {{< gallery >}}
-<img src="/iolite/murmur/751824771713515520_0.jpg" class="grid-w50">
+<img src="/iolite/murmur/751824771713515520_0.jpg" class="grid-w100">
 {{< /gallery >}}
 4.7㌔
 {{< /timelineItem >}}
@@ -331,9 +331,9 @@ espoir買うはずがTIRTIRシルバー小さいのあってそっち買
 {{< timelineItem icon="twitter" subheader="2023/05/05" >}}
 {{< gallery >}}
 <img src="/iolite/murmur/751825429661351936_3.jpg" class="grid-w100">
+<img src="/iolite/murmur/751825429661351936_2.jpg" class="grid-w50">
 <img src="/iolite/murmur/751825429661351936_0.jpg" class="grid-w50">
 <img src="/iolite/murmur/751825429661351936_1.jpg" class="grid-w50">
-<img src="/iolite/murmur/751825429661351936_2.jpg" class="grid-w50">
 {{< /gallery >}}
 芋ラテ飲みにいって、久しぶりに芝生に座ったら癒やされた！風が良かった🍃
 {{< /timelineItem >}}
@@ -491,7 +491,7 @@ KALDIに胡椒餅あるって聞いたんで！！！
 
 {{< timelineItem icon="twitter" subheader="2023/07/14" >}}
 {{< gallery >}}
-<img src="/iolite/murmur/752364938127917056_0.jpg" class="grid-w50">
+<img src="/iolite/murmur/752364938127917056_0.jpg" class="grid-w100">
 {{< /gallery >}}
 舘ひろし似サラリーマンが険しい顔🤨で私のカバンについてるキーホルダーをガン見してたんだけど、裏返ってドーナツの絵しか見えてなかったので、彼が居眠りしてるうちに表のカービィが見えるようにしておいたら、目を覚ましてすぐ驚きと納得の表情😳でカービィを見つめてた笑笑
 {{< /timelineItem >}}
@@ -582,7 +582,7 @@ KALDIに胡椒餅あるって聞いたんで！！！
 
 {{< timelineItem icon="twitter" subheader="2023/08/31" >}}
 {{< gallery >}}
-<img src="/iolite/murmur/754441634186477568_0.jpg" class="grid-w50">
+<img src="/iolite/murmur/754441634186477568_0.jpg" class="grid-w100">
 {{< /gallery >}}
 心臓 とまるからやめて………😭
 {{< /timelineItem >}}
