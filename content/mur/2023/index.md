@@ -25,12 +25,9 @@ draft: false
 {{< /timelineItem >}}
 
 {{< timelineItem icon="twitter" subheader="2023/01/04" >}}
-{{< video
-    src="/iolite/murmur/751823851535630336_0.mp4"
-    poster="751823851535630336_1.jpg"
-    caption=""
-    muted=true
->}}
+<video controls preload="metadata" width="100%">
+  <source src="/iolite/murmur/751823851535630336_0.mp4" type="video/mp4">
+</video>
 今すぐこれになりたい
 {{< /timelineItem >}}
 
@@ -536,7 +533,6 @@ KALDIに胡椒餅あるって聞いたんで！！！
 <img src="/iolite/murmur/752364191385600000_1.jpg" class="grid-w50">
 {{< /gallery >}}
 うまく撮れないこの美しさ…
-{{< badge >}}video{{< /badge >}} 
 {{< /timelineItem >}}
 
 {{< timelineItem icon="twitter" subheader="2023/07/21" >}}
@@ -567,12 +563,9 @@ KALDIに胡椒餅あるって聞いたんで！！！
 {{< /timelineItem >}}
 
 {{< timelineItem icon="twitter" subheader="2023/08/08" >}}
-{{< video
-    src="/iolite/murmur/754442449615798272_0.mp4"
-    poster=""
-    caption=""
-    muted=true
->}}
+<video controls preload="metadata" width="100%">
+  <source src="/iolite/murmur/754442449615798272_0.mp4" type="video/mp4">
+</video>
 すごい嫌な思いしたけどその原因となる見知らぬ男に往復ビンタかます想像しまくってなんとか穏便にすませた😢
 {{< /timelineItem >}}
 
@@ -733,12 +726,9 @@ My bird is freed
 {{< timeline >}}
 
 {{< timelineItem icon="twitter" subheader="2023/11/12" >}}
-{{< video
-    src="/iolite/murmur/752180500119027712_0.mp4"
-    poster=""
-    caption=""
-    muted=true
->}}
+<video controls preload="metadata" width="100%">
+  <source src="/iolite/murmur/752180500119027712_0.mp4" type="video/mp4">
+</video>
 今日はうちのネコが舌しまい忘れてるの初めて見た記念日です
 {{< /timelineItem >}}
 
